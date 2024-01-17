@@ -1,0 +1,1 @@
+USE trybe_hotel;
